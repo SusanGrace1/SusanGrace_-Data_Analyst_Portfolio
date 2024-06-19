@@ -21,7 +21,7 @@ In this repository, you will find a collection of projects that showcase my skil
   
 I am excited to share my work with you and eager to connect with fellow data enthusiasts. Feel free to explore the projects, provide feedback, or reach out for collaboration opportunities. Let's turn data into knowledge together! 😃 📈
 
-My CV in 
+My Reume in pdf
 ### Table of Contents
 - [Project Overview](#project_overview)
 - [Data Source](#data_source)
