@@ -42,11 +42,19 @@ I sourced my dataset for this project from [kaggle](https://www.kaggle.com/datas
 
 Before diving into the data analysis, we made the following educated guesses based on industry knowledge and logical reasoning:
 
-1.**Budget:** We assumed that a higher budget would result in higher gross earnings.
+1. **Budget:** We assumed that a higher budget would result in higher gross earnings.
+
 2. **Company:** We believed that movies produced by more prestigious or larger companies would have higher budgets and, consequently, higher gross earnings.
 
-### Code:
-[Code used](https://github.com/SusanGrace1/Grace-s_Portfolio/blob/main/_Movie%20Industry%20Data%20Analysis%20Code.ipynb)
+### Code: 
+
+The  for this project was mainly for data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+
+[Code used]() 
+
+### Results
+
+
 
 
 
