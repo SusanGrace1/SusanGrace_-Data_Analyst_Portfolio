@@ -50,7 +50,7 @@ Before diving into the data analysis, we made the following educated guesses bas
 
 The  for this project was mainly for data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
-[Code used]() 
+[Code used](https://github.com/SusanGrace1/Grace-s_Portfolio/blob/main/_Movie%20Industry%20Data%20Analysis%20Code%20(1).ipynb) 
 
 ### Results
 
