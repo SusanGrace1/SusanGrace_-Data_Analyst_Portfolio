@@ -39,6 +39,8 @@ I sourced my dataset for this project from [kaggle](https://www.kaggle.com/datas
 - Pandas & numpy - Data Manipulation, Data Cleaning, Removing Duplicates and Data Aggregation.
 
 ### Code:
+[Code used](https://github.com/SusanGrace1/Grace-s_Portfolio/blob/main/_Movie%20Industry%20Data%20Analysis%20Code.ipynb)
+
 
 
 
