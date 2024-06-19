@@ -21,6 +21,20 @@ In this repository, you will find a collection of projects that showcase my skil
   
 I am excited to share my work with you and eager to connect with fellow data enthusiasts. Feel free to explore the projects, provide feedback, or reach out for collaboration opportunities. Let's turn data into knowledge together! 😃 📈
 
+My CV in 
+## Table of Contents
+
+## Project Overview
+
+The primary objective of this project is to analyze and identify the key factors that correlate with the gross earnings of movies. By understanding these correlations, we can make educated guesses and strategic decisions that could potentially maximize a movie's financial success.
+
+## Data Source
+
+
+
+
+
+
 
 
 
