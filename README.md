@@ -25,6 +25,16 @@ My CV in
 ### Table of Contents
 - [Project Overview](#project_overview)
 - [Data Source](#data_source)
+- [Tools and Technologies](#tools_and_technologies)
+- [Exploratory Data Analysis](#exploratory_data_analysis)
+- [Code](#code)
+- [Key Findings](#key_findings)
+- [Conclusion](#conclusions)
+- [Recommendations](#recommendations)
+
+
+
+
 
 
 ### Project Overview
