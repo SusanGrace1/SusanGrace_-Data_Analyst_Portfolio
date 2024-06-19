@@ -1,6 +1,6 @@
 # Susan Grace Mithika - Data Analyst Portfolio
 
-## About
+### About
 Hello and welcome! I'm Susan, an enthusiastic and detail-oriented junior data analyst with a passion for uncovering insights from data and turning them into actionable strategies. My journey in the world of data has been driven by curiosity, analytical thinking, and a love for continuous learning.
 
 In this repository, you will find a collection of projects that showcase my skills in data analysis, visualization, and statistical modeling. Each project is a reflection of my commitment to transforming raw data into meaningful stories and solutions.
@@ -22,15 +22,27 @@ In this repository, you will find a collection of projects that showcase my skil
 I am excited to share my work with you and eager to connect with fellow data enthusiasts. Feel free to explore the projects, provide feedback, or reach out for collaboration opportunities. Let's turn data into knowledge together! 😃 📈
 
 My CV in 
-## Table of Contents
+### Table of Contents
 
-## Project Overview
+### Project Overview
 
 The primary objective of this project is to analyze and identify the key factors that correlate with the gross earnings of movies. By understanding these correlations, we can make educated guesses and strategic decisions that could potentially maximize a movie's financial success.
 
-## Data Source
+### Data Source
 
 I sourced my dataset for this project from [kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies)
+
+### Tools and Technologies
+
+- Python- Programming Langage
+- Matplotlib & Seaborn - Data Visualization
+- Pandas & numpy - Data Manipulation, Data Cleaning, Removing Duplicates and Data Aggregation.
+
+### Code:
+
+
+
+
 
 
 
