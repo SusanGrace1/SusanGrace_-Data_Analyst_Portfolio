@@ -52,11 +52,30 @@ The  for this project was mainly for data cleaning, data analysis, correlation m
 
 [Code used](https://github.com/SusanGrace1/Grace-s_Portfolio/blob/main/_Movie%20Industry%20Data%20Analysis%20Code%20(1).ipynb) 
 
-### Results
+### Key Findings
 
+1. **Correlation Between Gross and Budget:**
 
+My initial assumption that gross earnings would have a high correlation with the budget was not entirely correct.
+While there is some correlation between gross and budget, it was not as strong as expected.
 
+2. **Votes and Budget Correlation with Gross Earnings:**
+   
+Upon further analysis, it turns out that votes and budget have the highest correlation with gross earnings.
+This suggests that movies with higher budgets tend to receive more votes, which can be an indicator of audience engagement and, subsequently, higher gross earnings.
 
+3. **Company's Influence:**
+
+Contrary to my assumption, the company producing the movie has a low correlation with gross earnings.
+This indicates that factors such as budget and audience reception (votes) are more critical determinants of a movie's financial success than the prestige or size of the production company.
+
+### Conclusion
+
+This project highlights the importance of data-driven decision-making in the film industry. My initial assumptions were challenged and refined through empirical analysis, leading to more accurate insights. The significant correlation between votes, budget, and gross earnings underscores the value of allocating resources efficiently and engaging with the audience effectively to maximize a movie's financial performance.
+
+### Recommendations
+
+Moving forward, it would be beneficial to explore additional variables such as marketing spend, release date, and genre to further refine our understanding of the factors influencing movie gross earnings. By continuously analyzing and updating our models with new data, we can provide more robust recommendations for optimizing movie production and distribution strategies.
 
 
 
