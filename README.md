@@ -30,6 +30,9 @@ The primary objective of this project is to analyze and identify the key factors
 
 ## Data Source
 
+I sourced my dataset for this project from [kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies)
+
+
 
 
 
