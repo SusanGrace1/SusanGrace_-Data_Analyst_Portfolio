@@ -23,6 +23,8 @@ I am excited to share my work with you and eager to connect with fellow data ent
 
 My Reume in [pdf.](https://github.com/SusanGrace1/Grace-s_Portfolio/blob/main/Susan%20Grace%20DA.%20Resume.pdf)
 
+## Project 1: Movie Industry Analysis
+
 ### Table of Contents
 - [Project Overview](#project_overview)
 - [Data Source](#data_source)
