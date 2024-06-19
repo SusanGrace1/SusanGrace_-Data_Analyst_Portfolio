@@ -23,6 +23,9 @@ I am excited to share my work with you and eager to connect with fellow data ent
 
 My CV in 
 ### Table of Contents
+- [Project Overview](#project_overview)
+- [Data Source](#data_source)
+
 
 ### Project Overview
 
