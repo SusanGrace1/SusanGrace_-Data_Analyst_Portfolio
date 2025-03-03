@@ -56,7 +56,7 @@ I sourced my dataset for this project from [kaggle](https://www.kaggle.com/datas
 
 ### Exploratory Data Analysis
 
-Before diving into the data analysis, we made the following educated guesses based on industry knowledge and logical reasoning:
+Before diving into the data analysis, I made the following educated guesses based on industry knowledge and logical reasoning:
 
 1. **Budget:** We assumed that a higher budget would result in higher gross earnings.
 
