@@ -21,7 +21,7 @@ In this repository, you will find a collection of projects that showcase my skil
   
 I am excited to share my work with you and eager to connect with fellow data enthusiasts. Feel free to explore the projects, provide feedback, or reach out for collaboration opportunities. Let's turn data into knowledge together! 😃 📈
 
-My Reume in [pdf.](https://github.com/SusanGrace1/SusanGrace_-Data_Analyst_Portfolio/blob/main/Susan%20Grace%20DA.%20Resume.pdf)
+My Resume in [pdf.](https://github.com/SusanGrace1/SusanGrace_-Data_Analyst_Portfolio/blob/main/Susan%20Grace%20DA.%20Resume.pdf)
 
 ## Project 1: Movie Industry Analysis
 
