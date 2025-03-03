@@ -58,9 +58,9 @@ I sourced my dataset for this project from [kaggle](https://www.kaggle.com/datas
 
 Before diving into the data analysis, I made the following educated guesses based on industry knowledge and logical reasoning:
 
-1. **Budget:** We assumed that a higher budget would result in higher gross earnings.
+1. **Budget:** I assumed that a higher budget would result in higher gross earnings.
 
-2. **Company:** We believed that movies produced by more prestigious or larger companies would have higher budgets and, consequently, higher gross earnings.
+2. **Company:** I believed that movies produced by more prestigious or larger companies would have higher budgets and, consequently, higher gross earnings.
 
 ### Code: 
 
