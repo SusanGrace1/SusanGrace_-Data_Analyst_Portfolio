@@ -1,9 +1,9 @@
-# Susan Grace Mithika - Data Analyst Portfolio
+# Movie Industry Data Analysis
 
 ### About
-Hello and welcome! I'm Susan, an enthusiastic and detail-oriented junior data analyst with a passion for uncovering insights from data and turning them into actionable strategies. My journey in the world of data has been driven by curiosity, analytical thinking, and a love for continuous learning.
+Hello and welcome! I'm Susan, an enthusiastic and detail-oriented data analyst with a passion for uncovering insights from data and turning them into actionable strategies. My journey in the world of data has been driven by curiosity, analytical thinking, and a love for continuous learning.
 
-In this repository, you will find a collection of projects that showcase my skills in data analysis, visualization, and statistical modeling. Each project is a reflection of my commitment to transforming raw data into meaningful stories and solutions.
+In this repository, I showcase my skills in data analysis, visualization, and statistical modeling. Each project is a reflection of my commitment to transforming raw data into meaningful stories and solutions.
 
 **What You'll Find Here:**
 - **Data Cleaning & Preparation:** Techniques for cleaning and organizing data to ensure accuracy and reliability.
@@ -21,9 +21,7 @@ In this repository, you will find a collection of projects that showcase my skil
   
 I am excited to share my work with you and eager to connect with fellow data enthusiasts. Feel free to explore the projects, provide feedback, or reach out for collaboration opportunities. Let's turn data into knowledge together! 😃 📈
 
-My Resume in [pdf.](https://github.com/SusanGrace1/SusanGrace_-Data_Analyst_Portfolio/blob/main/Susan%20Grace%20DA.%20Resume.pdf)
-
-## Project 1: Movie Industry Analysis
+## Project : Movie Industry Analysis
 
 ### Table of Contents
 - [Project Overview](#project_overview)
